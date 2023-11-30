@@ -34,7 +34,7 @@ export const Contact = () => {
     emailjs
       .sendForm(
         "service_5x9np8j",
-        "template_f3091dq",
+        "template_25a0omh",
         e.target,
         "QPyQ_Hw6v2IPGeD2I"
       )
