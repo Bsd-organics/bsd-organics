@@ -9,7 +9,7 @@ export const Header = () => {
             <div className="row">
               <div className="col-md-8 col-md-offset-2 intro-text">
                 <h1>
-                  Bsd Organics
+                  Trade Enabler
                   <span></span>
                 </h1>
                 <p>
