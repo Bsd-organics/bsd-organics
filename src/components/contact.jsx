@@ -33,10 +33,10 @@ export const Contact = () => {
     console.log(name, email, message);
     emailjs
       .sendForm(
-        "service_nhrkug5",
-        "template_kcihaly",
+        "service_5x9np8j",
+        "template_x9wv51b",
         e.target,
-        "5B2M_AUb17IThs4jM"
+        "QPyQ_Hw6v2IPGeD2I"
       )
       .then(
         (result) => {
